@@ -1,0 +1,8 @@
+*.res
+*.in
+*.out
+*.diff
+*.par
+*.args
+*.pgm
+*.ppm
