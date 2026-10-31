@@ -7,3 +7,9 @@
 *.pgm
 *.ppm
 *.py
+# Makefiles
+**/Makefile
+**/Makefile.*
+
+# za teste delat
+*_ai.*
