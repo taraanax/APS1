@@ -18,6 +18,9 @@ int findMedian(vector<int> &a, int n) {
 
 int main () {
 
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+
     int n;
     cin >> n;
 
