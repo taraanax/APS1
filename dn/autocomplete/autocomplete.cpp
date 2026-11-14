@@ -80,11 +80,6 @@ int main () {
     int b = 1;
     while (b < n) b = b * 2;
 
-/*
-levi otrok = 2i
-desni otrok = 2i + 1
-starš = i/2
-*/
     vector<pair<int, int>> tree(b * 2, {0, 0});
     int k = b;
     for (int i = 0; i < n; i++) {
